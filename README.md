@@ -38,8 +38,7 @@ Goals:
 ## 📂 File Structure
 
 - `HNU_Network_Topology.pkt`  
-- `docs/HNU_Network_Design_Report.pdf`  
-- `docs/screenshots/` (optional photos of Packet Tracer)  
+- `docs/HNU_Network_Design_Report.pdf`   
 
 ---
 
